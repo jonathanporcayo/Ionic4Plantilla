@@ -1,0 +1,7 @@
+{
+  "name": "vidaApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
